@@ -1,0 +1,18 @@
+SwiftUI Animations and other resources from Shubham Singh
+Hey, SwiftUI coders.
+
+I have some links I would like to share from a friend of mine, Shubham Singh.
+
+He authored four animations in this course and is a very talented SwiftUI programmer:
+
+Project 17 - Be Fruitful and Multiply
+
+Project 18 - Lighten Up - Light Switch
+
+Project 19 - Lets Connect - WiFi Loading Animation
+
+Project 20 - Never judge a book by its movie - Book Loader
+
+Check out his work and other Swift code on GitHub - https://github.com/Shubham0812
+
+And his Instagram page for more info and ideas - https://www.instagram.com/shubham_iosdev
